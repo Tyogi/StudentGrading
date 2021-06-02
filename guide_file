@@ -1,0 +1,6 @@
+The main method is StudentMain.java.
+The exceptions in the StudentMain.java file is handled by user-defined exceptions in NullMarksArrayException.java,NullNameException.java and NullStudentObjectException.java.
+The variables are declared and intialized in Student.java file.The instance variables are used by getters and setters methods.Constructor method is also created where initailzation is done.
+StudentReport.java and StudentService.java are the files where the actual work takes place.In StudentReport.java the inputs given by the user are validated and upon validation the grade is calculated based on the marks obtained by the student.
+StudentService.java handles the null values given by the user.It also counts how many null values are given according to marks,name and StudentObject.
+Thank you.
